@@ -38,7 +38,7 @@ body{
     from{border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;}
     to{border-radius: 74% 26% 31% 69% / 44% 69% 31% 56%;}
 }
-.drop h1{
+.drop h2{
     display: flex;
     align-items: center;
     justify-content: center;
